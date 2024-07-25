@@ -1,0 +1,9 @@
+.gitignore
+.npmignore
+node_modules
+dist
+pnpm-lock.yaml
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
