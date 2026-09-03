@@ -1,7 +1,7 @@
 *.js
-!jest.config.js
 *.d.ts
 node_modules
+.husky/_
 
 # CDK asset staging directory
 .cdk.staging

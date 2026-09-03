@@ -13,7 +13,7 @@ export class TestCronConstruct extends Construct {
 		const func = new NodejsFunction(this, "TestLambda", {
 			entry: path.resolve(__dirname, "lambda.ts"),
 			timeout: Duration.seconds(5),
-			runtime: Runtime.NODEJS_20_X,
+			runtime: Runtime.NODEJS_24_X,
 			initialPolicy: [],
 		});
 
