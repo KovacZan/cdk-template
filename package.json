@@ -26,6 +26,7 @@
 		"aws-cdk": "^2.1139.0",
 		"eslint": "^10.9.1",
 		"eslint-config-prettier": "^10.1.8",
+		"esbuild": "^0.28.2",
 		"husky": "^9.1.7",
 		"lint-staged": "^17.4.1",
 		"prettier": "^3.9.6",

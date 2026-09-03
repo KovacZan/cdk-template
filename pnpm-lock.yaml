@@ -30,6 +30,9 @@ importers:
       aws-cdk:
         specifier: ^2.1139.0
         version: 2.1139.0
+      esbuild:
+        specifier: ^0.28.2
+        version: 0.28.2
       eslint:
         specifier: ^10.9.1
         version: 10.9.1
